@@ -1,5 +1,5 @@
 ex6 Manage Kubernetes Resources Using CLI
-
+choco install minikube
 download minikube
 
 minikube start --driver=docker
